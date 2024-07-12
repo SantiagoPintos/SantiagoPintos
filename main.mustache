@@ -26,3 +26,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm?style=flat-square&logo=pnpm&logoColor=%23F69220&label=pnpm&labelColor=%23323330&color=%23323330" />
 </p>
+
+
+
+<h3>Some stats:</h3>
+<p>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopintos)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)</p>
+<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopintos&exclude_repo=msm-4.9,sdm845-eff_freqs,msm-4.4&layout=compact)</p>
