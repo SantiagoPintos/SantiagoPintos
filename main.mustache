@@ -30,5 +30,5 @@
 
 
 <h3>Some stats:</h3>
-<p>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopintos)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)</p>
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopintos&exclude_repo=msm-4.9,sdm845-eff_freqs,msm-4.4&layout=compact)</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagopintos)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagopintos&exclude_repo=msm-4.9,sdm845-eff_freqs,msm-4.4&layout=compact)
