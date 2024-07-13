@@ -1,7 +1,10 @@
-<h1>Hey!</h1>
+<a><img alt="Hello. I'm Santiago" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&background=282A36&random=false&width=435&lines=Hello.+I'm+Santiago" /></a>
 
-<h2>My name is Santiago and I'm a sofware developer from Uruguay!</h2>
+<h2>About me:</h2>
 
+<p>Hello I'm Santiago, a software developer with great interest in web and mobile technologies. 
+
+If I'm not writing code you'll probably find me buying coffee.</p>
 
 <h3>Tech stack:</h3>
 <p>
