@@ -1,4 +1,4 @@
-<a><img alt="Hello. I'm Santiago" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&background=282A36&random=false&width=435&lines=Hello.+I'm+Santiago" /></a>
+<a><img alt="Hello. I'm Santiago" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&random=false&width=435&lines=Hello.+I'm+Santiago" /></a>
 
 <h2>About me:</h2>
 
