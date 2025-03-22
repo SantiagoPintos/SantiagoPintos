@@ -7,7 +7,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-python?style=flat-square&logo=python&logoColor=white&label=Python&labelColor=%233776AB&color=%233776AB" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-kotlin?style=flat-square&logo=kotlin&label=Kotlin&color=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-kotlin?style=flat-square&logo=kotlin&label=Kotlin" />
   <img alt=".NET" src="https://img.shields.io/badge/-dotnet?style=flat-square&logo=.net&logoColor=white&label=.NET&labelColor=%23512BD4&color=%23512BD4" />
 </p>
 
