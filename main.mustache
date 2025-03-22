@@ -1,6 +1,6 @@
 <p>Hey! I'm Santiago, a full stack developer with great interest in web and mobile technologies.</p>
 
-<h3>What I do</h3>
+<h3>What I do:</h3>
 <p>
   <ul>
     <li>I work with Kotlin and Angular 💻</li>
@@ -18,4 +18,11 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-kotlin?style=flat-square&logo=kotlin&label=Kotlin&labelColor=gray&color=gray" />
   <img alt=".NET" src="https://img.shields.io/badge/-dotnet?style=flat-square&logo=.net&logoColor=white&label=.NET&labelColor=%23512BD4&color=%23512BD4" />
+</p>
+
+<h3>More:</h3>
+<p>
+  <ul>
+    <li>Check out my <a href="https://santiagopintos.github.io/">website</a> to know more</li>
+  </ul>
 </p>
