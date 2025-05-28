@@ -3,9 +3,9 @@
 <h3>What I do:</h3>
 <p>
   <ul>
-    <li>Building the next generation of AI agents using LangChain, Python, and real-world data sources 🧠⚙</li>
-    <li>I build to learn, and learn to build 🚀</li>
-    <li>Fueled by curiosity (and a lot of coffee) ☕</li>
+    <li>I work with Kotlin and Angular 💻</li>
+    <li>I'm constantly building projects with new technologies 🚀</li>
+    <li>Coffee, always coffee ☕</li>
   </ul>
 </p>
 
