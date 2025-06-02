@@ -1,4 +1,4 @@
-<p>Hey! I'm Santiago, a full stack developer with great interest in web and mobile technologies.</p>
+<p>Hey! I'm Santiago, a developer working at the intersection of AI, data, and backend engineering — always exploring new technologies.</p>
 
 <h3>What I do:</h3>
 <p>
